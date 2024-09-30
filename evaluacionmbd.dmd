@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="evaluacionmbd" id="C92EDE1F-72DC-8D7E-47B6-A6AE6916EAA1" version="3.5">
+<createdBy>fuent</createdBy>
+<createdTime>2024-09-30 01:27:47 UTC</createdTime>
+<ownerDesignName>evaluacionmbd</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>C92EDE1F-72DC-8D7E-47B6-A6AE6916EAA1</designId>
+</OSDM_Design>
